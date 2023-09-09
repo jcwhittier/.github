@@ -13,7 +13,6 @@ Ganglia is a [BSD-licensed](http://en.wikipedia.org/wiki/BSD_license) open-sourc
   - [python client](TODO)
 
 # Community
-  - [Github site](https://github.com/ganglia/ganglia-core)
   - [Freenode IRC channel #ganglia](irc://chat.freenode.net/ganglia) 
 
 # Support
