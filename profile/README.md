@@ -1,4 +1,4 @@
-![](assets/logo_small.jpg)
+![](https://github.com/ganglia/.github/blob/main/profile/assets/logo_small.jpg)
 
 # What is Ganglia?
 Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids. It is based on a hierarchical design targeted at federations of clusters. It leverages widely used technologies such as XML for data representation, XDR for compact, portable data transport, and RRDtool for data storage and visualization. It uses carefully engineered data structures and algorithms to achieve very low per-node overheads and high concurrency. The implementation is robust, has been ported to an extensive set of operating systems and processor architectures, and is currently in use on thousands of clusters around the world. It has been used to link clusters across university campuses and around the world and can scale to handle clusters with 2000 nodes.
@@ -79,7 +79,7 @@ Thank you for your contributions!
   - Jamie Isaacs
 
 # Book
-![Book cover](assets/book_cover.gif)
+![Book cover](https://github.com/ganglia/.github/blob/main/profile/assets/book_cover.gif)
 
 [Buy the book today](http://shop.oreilly.com/product/0636920025573.do)
 
