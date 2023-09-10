@@ -9,8 +9,6 @@ Ganglia is a [BSD-licensed](http://en.wikipedia.org/wiki/BSD_license) open-sourc
 
   - [Ganglia Monitor Core](https://github.com/ganglia/monitor-core)
   - [Ganglia Web 2.0](https://github.com/ganglia/ganglia-web)
-  - [gexec execution environment](TODO)
-  - [python client](TODO)
 
 # Community
   - [Freenode IRC channel #ganglia](irc://chat.freenode.net/ganglia) 
