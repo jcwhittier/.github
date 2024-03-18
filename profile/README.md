@@ -26,7 +26,7 @@ There are also a number of mailing lists which capture community knowledge datin
   - ganglia-developers: [JOIN](http://lists.sourceforge.net/lists/listinfo/ganglia-developers) - This list is for the people who develop code for ganglia to stay in sync as a team. [Search Archive](http://www.mail-archive.com/ganglia-developers@lists.sourceforge.net/)
 
 # Contributors
-he Ganglia Project was started in 2001 by Matt Massie while he was working at the University of California, Berkeley. The project has had a lot of contributors throughout the years and this is just a simple page showing appreciation to past and present contributors. If you have contributed to the project but are not listed here, please send us an email at ganglia-developers@lists.sourceforge.net or Twitter [@gangliainfo](http://twitter.com/gangliainfo).
+The Ganglia Project was started in 2001 by Matt Massie while he was working at the University of California, Berkeley. The project has had a lot of contributors throughout the years and this is just a simple page showing appreciation to past and present contributors. If you have contributed to the project but are not listed here, please send us an email at ganglia-developers@lists.sourceforge.net or Twitter [@gangliainfo](http://twitter.com/gangliainfo).
 
 Thank you for your contributions!
 
